@@ -2,7 +2,7 @@ import openai
 import time
 
 # تنظیم کلید API شرکت OpenAI
-openai.api_key = "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"
+openai.api_key = "API Key"
 
 # تنظیم پارامترهای مدل
 model_engine = "text-davinci-002"  # موتور مدل
